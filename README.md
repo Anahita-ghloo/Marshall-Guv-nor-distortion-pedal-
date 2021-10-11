@@ -55,7 +55,12 @@ PCB
 <br/>
 <br/>
 <p align="center">
-<img src= "https://github.com/Anahita-ghloo/Marshall-Guv-nor-distortion-pedal-/blob/main/PCB(2).jpg" width="600" height="400">
+<img src= "https://github.com/Anahita-ghloo/Marshall-Guv-nor-distortion-pedal-/blob/main/assembled%201.jpg" width="600" height="400">
+</p>
+<br/>
+<br/>
+<p align="center">
+<img src= "https://github.com/Anahita-ghloo/Marshall-Guv-nor-distortion-pedal-/blob/main/assembled%201.jpg" width="600" height="400">
 </p>
 
 
