@@ -10,6 +10,7 @@ Table of Contents
   * [Requirements](#requirements)
   * [Schematic](#schematic)
   * [PCB](#pcb)
+  * [Assemble](#assemble)
   * [Contributing](#contributing)
   * [Support and Migration](#support-and-migration)
   * [License](#license)
@@ -52,6 +53,10 @@ PCB
 <p align="center">
 <img src= "https://github.com/Anahita-ghloo/Marshall-Guv-nor-distortion-pedal-/blob/main/PCB(2).jpg" width="400" height="300">
 </p>
+
+Assemble
+-----
+
 <br/>
 <br/>
 <p align="center">
@@ -66,11 +71,6 @@ PCB
 
 
 
-### Error handling
-
-The script will raise fallowing error if directories are not provided.
-
-AttributeError: `NoneType` object
 
 Contributing
 -----
