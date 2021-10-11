@@ -9,6 +9,7 @@ Table of Contents
 
   * [Requirements](#requirements)
   * [Schematic](#schematic)
+  * [PCB](#pcb)
   * [Contributing](#contributing)
   * [Support and Migration](#support-and-migration)
   * [License](#license)
@@ -25,6 +26,15 @@ The script requires the following to run:
 
 
 Schematic
+-----
+
+<br/>
+<br/>
+<p align="center">
+<img src= "https://github.com/Anahita-ghloo/Marshall-Guv-nor-distortion-pedal-/blob/main/2021-10-11_19-00-25.png" width="800" height="500">
+</p>
+
+PCB
 -----
 
 <br/>
