@@ -42,6 +42,11 @@ PCB
 <p align="center">
 <img src= "https://github.com/Anahita-ghloo/Marshall-Guv-nor-distortion-pedal-/blob/main/2021-10-11_19-00-25.png" width="800" height="500">
 </p>
+<br/>
+<br/>
+<p align="center">
+<img src= "https://github.com/Anahita-ghloo/Marshall-Guv-nor-distortion-pedal-/blob/main/2021-10-11_19-00-25.png" width="800" height="500">
+</p>
 
 ### Error handling
 
