@@ -30,7 +30,7 @@ Schematic
 <br/>
 <br/>
 <p align="center">
-<img src= "https://github.com/Anahita-ghloo/SolidWorks_Projects/blob/main/2021-05-18_00-37-54.png" width="800" height="500">
+<img src= "https://github.com/Anahita-ghloo/Marshall-Guv-nor-distortion-pedal-/blob/main/2021-10-11_19-00-25.png" width="800" height="500">
 </p>
 
 ### Error handling
